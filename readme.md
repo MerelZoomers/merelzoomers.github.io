@@ -5,8 +5,8 @@
 Dit is mijn werk
 
 -----
-*Pagina werkvormen [Test link](https://merelzoomers.github.io/test.html)
-*Pagina concepten [Test link](https://merelzoomers.github.io/test.html)
+* Pagina werkvormen [Test link](https://merelzoomers.github.io/test.html)
+* Pagina concepten [Test link](https://merelzoomers.github.io/test.html)
 This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
