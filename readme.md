@@ -3,7 +3,7 @@
 
 
 **Dit is mijn werk, geniet er van**
-
+![image info](plaatjesnaam)
 -----
 * Pagina werkvormen [Test link](https://merelzoomers.github.io/test.html)
 * Pagina concepten [Test link](https://merelzoomers.github.io/test.html)
