@@ -2,12 +2,12 @@
 
 
 
-Dit is mijn werk
+**Dit is mijn werk, geniet er van**
 
 -----
 * Pagina werkvormen [Test link](https://merelzoomers.github.io/test.html)
 * Pagina concepten [Test link](https://merelzoomers.github.io/test.html)
-This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+* This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
 * It doesn't require any knowledge in Jekyll.
@@ -16,7 +16,7 @@ This little guide demonstrates how to turn any [Github](http://github.com) repos
 
 In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
 
-* [Here is the link to the Github version]((https://google.com)
+* [Here is the link to the Github version](https://google.com)
 * [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 ## Step by step instructions
