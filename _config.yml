@@ -13,4 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
+title: myCustomTitle
+description: myCustomAndDetailedDescription
