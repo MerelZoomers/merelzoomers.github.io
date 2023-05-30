@@ -16,7 +16,7 @@ This little guide demonstrates how to turn any [Github](http://github.com) repos
 
 In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
 
-* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
+* [Here is the link to the Github version](www.google.com)
 * [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
 ## Step by step instructions
