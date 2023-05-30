@@ -1,5 +1,3 @@
-Easy Markdown to Github Pages
-
 ## Introduction
 
 Pagina [Test link] (https://merelzoomers.github.io/test.md)
