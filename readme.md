@@ -1,5 +1,10 @@
 ## Introduction
 
+
+
+Dit is mijn werk
+
+-----
 Pagina [Test link](https://merelzoomers.github.io/test.html)
 
 This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
@@ -17,7 +22,7 @@ In fact this guide uses the same configuration and can be read both in Github an
 ## Step by step instructions
 
 ### Determine the repository where you want to activate Github Pages
-
+#### subtitel
 You can of course create a new repository if you want.
 
 ### Create the `_config.yml` file
