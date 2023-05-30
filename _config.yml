@@ -13,10 +13,10 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-title: myCustomTitle
+title: Merel Zoomers
 logo: 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-A art education specialist with a borad view on art education.
+An art education specialist with a broad view on art education.
   
 theme: jekyll-theme-minimal
 
