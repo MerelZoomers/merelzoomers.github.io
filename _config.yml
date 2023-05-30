@@ -15,6 +15,7 @@ include:
 
 theme: jekyll-theme-minimal
 title: Merel Zoomers
+logo: "/merel.jpg?raw=true"
 description: An art education specialist with a broad view on art education.
   
 
