@@ -1,4 +1,5 @@
 ## Anderzoeker
+
 ALLES KAN OOK ANDERS, gewoon ter herinnering. 
 Loop eens achteruit op de stoep, of ga kruipend door het bos. 
 Waarom zou je? 
@@ -7,7 +8,10 @@ Die vraag kun je jezelf stellen terwijl je het doet.
 Als kunsteducator focus ik vooral op de ontwikkeling van een meer grenzeloze visie op de wereld, in de veronderstelling dat vanuit visie, ervaring en actie zullen volgen. 
 Kunsteducatie geeft ademruimte om naar jezelf en de wereld te kunnen kijken. Hard nodig, in een onderwijssysteem wat andere waardes lijkt aan te houden. Kunst geeft een vijfde dimentie aan een moment, eentje die los kan breken van de herhaling en conformatie. Het stimuleert je te kijken naar de grenzen, maar vooral de ruimte daaromheen. Het leert je te spreken in een taal waarin nog geen grenzen bestaan. Het vormt een basis waar je vanzelf verder mee wilt bouwen. 
 
-**We mogen weer leren mens te zijn, in plaats van de machines te dienen! **
+
+
+
+### **We mogen weer leren mens te zijn in plaats van machines!**
 
 In een wereld waar technologie de mens weer ruimte geeft om diens natuur te ontdekken, pleit ik (samen met vele anderen) voor een radicale verandering van het onderwijssysteem. Kunsteducatie behoort hierin tot een kernvak met hoog aanzien ten opzichte van het belang voor de ontwikkeling van een mens. Om te leren kritisch te kijken en authenticiteit het nieuwe normaal te laten vormen. 
 
@@ -19,13 +23,33 @@ Enthousiast over maatschappelijke inovatie en op zoek naar ruimte om te bewegen?
 Contact: Merelzoomers2001@gmail.com
 Nummer: 06-201137387
 
-
-
 ![image info](plaatjesnaam)
+
+## EIGEN WERK
 -----
 
-* Pagina werkvormen [Test link](https://merelzoomers.github.io/test.html)
-* Pagina concepten [Test link](https://merelzoomers.github.io/test.html)
+* [Wat is raar en wat is waar?](https://merelzoomers.github.io/test.html)
+* [De grenzeloze visie](https://merelzoomers.github.io/test.html)
+* [Waarom zou je dat doen?](https://merelzoomers.github.io/test.html)
+* [(z)onder invloed](https://merelzoomers.github.io/test.html)
+* [Wachten](https://merelzoomers.github.io/test.html)
+* [Mindfullstress](https://merelzoomers.github.io/test.html)
+* [Ont-moeten](https://merelzoomers.github.io/test.html)
+* [Welke beweging heb je nog nooit gemaakt?](https://merelzoomers.github.io/test.html)
+* [De Carwash](https://merelzoomers.github.io/test.html)
+* [Op hoeveel manieren kun je ...](https://merelzoomers.github.io/test.html)
+* [De grenzen opzoeken](https://merelzoomers.github.io/test.html)
+* [De eerste keren verzamelaar](https://merelzoomers.github.io/test.html)
+* [Als je daar gaat staan, sta je niet meer hier](https://merelzoomers.github.io/test.html)
+* [De ongebruikte servet](https://merelzoomers.github.io/test.html)
+* [Tellen](https://merelzoomers.github.io/test.html)
+* [Ter herinnering aan de taal die afgesloten wordt](https://merelzoomers.github.io/test.html)
+* [De randjes zijn het makkelijkst](https://merelzoomers.github.io/test.html)
+* [Kiwi](https://merelzoomers.github.io/test.html)
+
+
+
+
 * This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
