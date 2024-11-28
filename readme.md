@@ -36,6 +36,8 @@ Nummer: 06-201137387
 ![image info](plaatjesnaam)
 
 ## EIGEN WERK
+Deze site is in ontwikkeling. Hier volgen titels van verleden/huidige/toekomstige projecten, invulling zal volgen.
+Vragen/interesse? Mail vooral!
 -----
 
 * [(z)onder invloed](https://merelzoomers.github.io/test.html)
