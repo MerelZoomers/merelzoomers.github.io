@@ -6,9 +6,9 @@ Waarom zou je?
 Die vraag kun je jezelf stellen terwijl je het doet. 
 
 Als kunsteducator focus ik vooral op de ontwikkeling van een meer grenzeloze visie op de wereld, in de veronderstelling dat vanuit visie, ervaring en actie zullen volgen. 
-Kunsteducatie geeft ademruimte om naar jezelf en de wereld te kunnen kijken. Hard nodig, in een onderwijssysteem wat andere waardes lijkt aan te houden. Kunst geeft een vijfde dimentie aan een moment, eentje die los kan breken van de herhaling en conformatie. Het stimuleert je te kijken naar de grenzen, maar vooral de ruimte daaromheen. Het leert je te spreken in een taal waarin nog geen grenzen bestaan. Het vormt een basis waar je vanzelf verder mee wilt bouwen. 
+Kunsteducatie geeft ademruimte om naar jezelf en de wereld te kunnen kijken. Hard nodig, in een onderwijssysteem wat andere waardes lijkt aan te houden. Kunst geeft een vijfde dimentie aan een moment, eentje die los kan breken van klakkeloze herhaling en conformatie aan regels waar je het eigenlijk niet mee eens bent. Het stimuleert je te kijken naar de grenzen, maar vooral de ruimte daaromheen. Het leert je te spreken in een taal waarin nog geen grenzen van goed of fout bestaan. Het vormt een basis waar je vanzelf verder mee wilt bouwen. 
 
-Definitie van ANDERZOEKER: Kortweg ben ik op zoek naar wat waardevol is om een mens mee te geven in diens ontwikkeling. Doorvoor ben ik op zoek naar hoe ik de ander kan bereiken en waarmee de ander bereken wil worden. Ieder invidiu is uniek, maar ook erg het zelfde. Dit kan en mag naast elkaar bestaan. Alles kan naast elkaar staan. Ieder mens heeft diens eigen realiteit, visie en waardes. Daarvanuit gaande, bevraag ik die van mezelf regelmatig tot continu. Dit bevragen brengt me dichter bij mijzelf, maar ook dichter bij de ander, door de ander te willen en proberen te begrijpen. In mijn werk probeer ik in iemands belevingswereld te kruipen door die van mijzelf nouwlettend in de gaten te houden. Wat kan er allemaal een rol spelen in de beleving van een moment?
+Definitie van ANDERZOEKER: Kortgezegd ben ik op zoek naar wat waardevol is om een mens mee te geven in diens ontwikkeling. Doorvoor ben ik op zoek naar hoe ik de ander kan bereiken en waarmee de ander bereken wil worden. Ieder invidiu is uniek, maar ook erg het zelfde. Dit kan en mag naast elkaar bestaan. Alles kan naast elkaar staan. Ieder mens heeft diens eigen realiteit, visie en waardes. Daarvanuit gaande, bevraag ik die van mezelf regelmatig tot continu. Dit bevragen brengt me dichter bij mijzelf, maar ook dichter bij de ander, door de ander te willen en proberen te begrijpen. In mijn werk probeer ik in iemands belevingswereld te kruipen door die van mijzelf nouwlettend in de gaten te houden. Wat kan er allemaal een rol spelen in de beleving van een moment? Daarbij zoek ik graag naar iets anders dan wat zich in het eerste opzicht aanbied.
 
 
 ### **We mogen weer leren mens te zijn in plaats van machines!**
@@ -21,11 +21,11 @@ Dit kan verschillende vormen aannemen, dienend aan de intentie die we stellen.
 
 Veel voorkomende intenties zijn:
 - Een mens in diens kracht laten voelen
-- Meer ruimte voor raar en waar
+- Het bevragen van raar en waar
 - De mens als geheel meenemen (lichaam, emoties, communicatie, verbinding)
 - Juist diegene bereiken waar kunst nog niet op hun pad is gekomen
 - Het leren kennen en verbreden van je eigen referentiekader
-- Maatschappelijke visie ontwikkeling
+- Ontwikkeling van je maatschappelijke visie
 
 Intenties staan, vormen komen. Performances, evenementen, workshops, exposities of wat we ook kunnen bedenken.
 Enthousiast over maatschappelijke inovatie en op zoek naar ruimte om te bewegen? Ik ga graag met je in gesprek!
